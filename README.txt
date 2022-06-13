@@ -1,4 +1,4 @@
-Este fue mi primer sitio web completo.
+Este fue mi primera pagina web completo.
 
 Realizada para practicar los conceptos aprendidos hasta ese momento. 
 César Mongez
